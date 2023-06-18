@@ -6,8 +6,6 @@
 <div style="display: inline_block"><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-d-santos/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://https://www.hackerrank.com/Matomatt)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/matomatt/)
 
 ![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=matdsant&show_icons=true&theme=gruvbox)
 
