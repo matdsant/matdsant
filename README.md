@@ -1,17 +1,23 @@
-# Olá! Eu sou o Matheus 👋😁
+### Hi there 👋, I'm [Matheus](https://www.linkedin.com/in/matheus-d-santos/)! 
 
-### Caso queira me conhecer e entrar em contato comigo, acesse as redes abaixo.
-### Sinta-se à vontade para acompanhar a evolução dos meus estudos.
+Hi, I'm Matheus, a Quality Assurance Analist. Besides programming, I enjoy music, movies, books, arts, and games!
 
-<div style="display: inline_block"><br/>
+🔭 I’m currently working at SulAmérica <br/>
+🌱 I’m currently learning Event-Driven Model and Microservices/>
+👯 I’m looking to collaborate on an opensource project <br/>
+💬 Ask me about my projects <br/>
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusdosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/)
+[![Gmail Badge](https://img.shields.io/badge/-matheus.dso1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.dso1996@gmail.com)](mailto:matheus.dso1996@gmail.com)<br/>
+:speaking_head: Languages: Português | English <br/>
+😄 Pronouns: He / His <br/>
+⚡ Interesting fact: Alan Turing, was a pioneering British mathematician, logician, and computer scientist, is often considered the father of computer science.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-d-santos/)
+[![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matdsant&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/matdsant/github-readme-stats)
 
-![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=matdsant&show_icons=true&theme=gruvbox)
 
 </div>
 
-# Essas são algumas Tecnologias utilizadas por mim!
+# These are some of the technologies I have worked with in my professional career!
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -27,5 +33,3 @@
     <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
     <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
-### Sou apaixonado por Tecnologia e acredito que o conhecimento sempre deve ser compartilhado, por isso estudo diferentes linguagens de programação e sempre estou buscando aprimorar as minhas habilidades lógicas visando novas oportunidades na minha Carreira Profissional.
