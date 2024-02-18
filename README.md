@@ -6,7 +6,7 @@ Hi, I'm Matheus, a Quality Assurance Analist. Besides programming, I enjoy music
 🌱 I’m currently learning Event-Driven Model and Microservices/>
 👯 I’m looking to collaborate on an opensource project <br/>
 💬 Ask me about my projects <br/>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusdosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-matheus.dso1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.dso1996@gmail.com)](mailto:matheus.dso1996@gmail.com)<br/>
 :speaking_head: Languages: Português | English <br/>
 😄 Pronouns: He / His <br/>
