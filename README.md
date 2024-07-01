@@ -7,9 +7,8 @@ Hi, I'm Matheus, a Quality Assurance Analist. Besides programming, I enjoy music
 👯 I’m looking to collaborate on an opensource project <br/>
 💬 Ask me about my projects <br/>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-matheus.dso1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.dso1996@gmail.com)](mailto:matheus.dso1996@gmail.com)<br/>
 :speaking_head: Languages: Portuguese (Português) | English (Inglês) <br/>
-😄 Pronouns: He / His <br/>
+😄 Pronouns: He / Him <br/>
 ⚡ Interesting fact: Alan Turing, was a pioneering British mathematician, logician, and computer scientist, is often considered the father of computer science.
 
 [![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matdsant&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/matdsant/github-readme-stats)
