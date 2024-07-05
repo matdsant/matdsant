@@ -13,7 +13,7 @@
 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/) <br/>
 
-[![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matdsant&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/matdsant/github-readme-stats)
+[![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matdsant&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/matdsant/github-readme-stats) <br/>
 
 # These are some of the technologies I have worked with in my Professional Career! <br/>
 
