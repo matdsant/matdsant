@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Matheus, but you can call me Matt. <br/> <br/>
 
-⚡ A graduate student in Software Engineering and work as a Junior Quality Assurance Analyst. <br/>
+⚡ A graduate student in Software Engineering and work as a Junior Developer & Quality Assurance Analyst. <br/>
 ⚡ Besides programming, I enjoy playing video games, watching movies, reading books, and creating digital art. <br/>
 🔭 I’m currently working at SulAmérica. <br/>
 🌱 Currently learning Event-Driven Model and Microservices. <br/>
