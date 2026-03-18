@@ -26,22 +26,10 @@ alias:      "Matt"
 role:       "Jr. Software Engineering Analyst"
 company:    "SulAmérica"
 education:  "Graduate · Software Engineering"
-pronouns:   "He / Him"
 
 languages:
   portuguese: "Native"
   english:    "C1 Proficiency"
-
-studying:
-  - "Event-Driven Architecture"
-  - "Microservices"
-
-interests:
-  - "🎮 Video Games"
-  - "🎬 Movies & Series"
-  - "📚 Books"
-  - "🎨 Digital Art"
-```
 
 ---
 
