@@ -22,7 +22,6 @@
 
 ```yaml
 name:       "Matheus dos Santos"
-alias:      "Matt"
 role:       "Jr. Software Engineering Analyst"
 company:    "SulAmérica"
 education:  "Graduate · Software Engineering"
@@ -30,6 +29,7 @@ education:  "Graduate · Software Engineering"
 languages:
   portuguese: "Native"
   english:    "C1 Proficiency"
+```
 
 ---
 
@@ -81,5 +81,4 @@ languages:
 ---
 
 <div align="center">
-<sub>Made with ❤️ by <a href="https://github.com/matdsant">matdsant</a></sub>
 </div>
