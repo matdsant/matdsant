@@ -1,42 +1,134 @@
-### 👋 Hello there, I'm Matheus, but you can call me Matt. <br/> <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Matheus%20dos%20Santos&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Junior%20Software%20Engineering%20Analyst%20%7C%20Anime%20Lover&descAlignY=65&descSize=17&stroke=7B2FBE&strokeWidth=2"/>
 
-⚡ A graduate student in Software Engineering and work as a Junior Software Engineering Analyst. <br/>
-⚡ Besides programming, I enjoy playing video games, watching movies, reading books, and creating digital art. <br/>
-🔭 I’m currently working at SulAmérica. <br/>
-🌱 Currently learning Event-Driven Model and Microservices. <br/>
-👯 And I’m looking to collaborate on an opensource project. <br/>
-💬 I'm a C1 proficiency level English student as well. <br/>
-:speaking_head: Languages: Portuguese (Português) | English (Inglês) <br/>
-😄 Pronouns: He / Him <br/> <br/>
-⚡ Interesting fact: Alan Turing, was a pioneering British mathematician, logician, and computer scientist, is often considered the father of computer science. <br/> <br/>
+<br/>
 
-📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-d-santos/)](https://www.linkedin.com/in/matheus-d-santos/) <br/>
+<div align="center">
 
-[![Matheus github stats](https://github-readme-stats.vercel.app/api?username=matdsant&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/matdsant/github-readme-stats) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E85D04&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Matt+%F0%9F%91%8B;Software+Engineer+%40+Sul%C3%AAm%C3%A9rica;Learning+Event-Driven+%26+Microservices;Always+open+to+collaborate+on+Open+Source!)](https://git.io/typing-svg)
 
-# These are some of the technologies I have worked with in my Professional Career! <br/>
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img align="center" alt="SalesForce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
-    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+---
+
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+### 〔 About Me 〕
+
+```yaml
+name:        Matheus dos Santos
+alias:       Matt
+role:        Jr. Software Engineering Analyst
+company:     SulAmérica
+education:   Graduate - Software Engineering
+pronouns:    He / Him
+
+languages:
+  - Portuguese  →  Native
+  - English     →  C1 Proficiency
+
+currently:
+  working_on:  SulAmérica projects
+  studying:    Event-Driven & Microservices
+  looking_for: Open Source collaborations
+
+interests:
+  - 🎮 Video Games
+  - 🎬 Movies & Series
+  - 📚 Books
+  - 🎨 Digital Art
+  - ⚔️  Anime
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.tenor.com/WhKSMWFNLnkAAAAC/naruto.gif" width="260" style="border-radius:12px"/>
+
+<br/><sub>🍥 <i>"Eu não desisto, não importa o quê!"</i></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center" border="0">
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/xMFJ03TgRFgAAAAC/jujutsu-kaisen-gojo.gif" width="240" style="border-radius:12px"/>
+
+<br/><sub>💜 <i>Gojo — Jujutsu Kaisen</i></sub>
+
+</td>
+<td width="55%" valign="top">
+
+### 〔 Tech Stack 〕
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Cloud & Databases**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 〔 GitHub Stats 〕
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=matdsant&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0a0a12&border_color=7B2FBE&title_color=E85D04&icon_color=E85D04&text_color=c9d1d9&ring_color=7B2FBE"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdsant&layout=compact&theme=midnight-purple&bg_color=0a0a12&border_color=7B2FBE&title_color=E85D04&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+<table align="center" border="0">
+<tr>
+<td width="100%" align="center">
+
+<img src="https://media.tenor.com/xBTztwB7S9QAAAAC/frieren.gif" width="280" style="border-radius:12px"/>
+
+<br/><sub>🧝 <i>Frieren — Beyond Journey's End</i></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 〔 Connect with me 〕
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_dos_Santos-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-d-santos/)
+[![GitHub](https://img.shields.io/badge/GitHub-matdsant-E85D04?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matdsant)
+[![Profile Views](https://komarev.com/ghpvc/?username=matdsant&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/matdsant)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&stroke=E85D04&strokeWidth=2"/>
