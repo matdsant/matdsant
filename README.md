@@ -65,20 +65,5 @@ languages:
 
 ---
 
-## Stats
-
-<div align="center">
-
-<a href="https://github.com/matdsant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matdsant&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=333333&title_color=ffffff&icon_color=888888&text_color=888888&hide_border=false"/>
-</a>
-<a href="https://github.com/matdsant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdsant&layout=compact&bg_color=0d1117&border_color=333333&title_color=ffffff&text_color=888888"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 </div>
