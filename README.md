@@ -22,7 +22,7 @@
 
 ```yaml
 name:       "Matheus dos Santos"
-role:       "Jr. Software Engineering Analyst"
+role:       "Jr. Software Engineer"
 company:    "SulAmérica"
 education:  "Graduate · Software Engineering"
 
